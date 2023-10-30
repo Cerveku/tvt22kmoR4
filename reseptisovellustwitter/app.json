@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "lonely-green-pudding",
-    "slug": "snack-97e6c497-4140-4bb9-9ff2-ca57ac97e04c",
+    "name": "reseptisovellustwitter",
+    "slug": "reseptisovellustwitter",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bcb75fd1-fd1d-4fc0-90be-91fe992aa497"
+      }
+    },
+    "owner": "tvt22kmor4"
   }
 }
