@@ -1,0 +1,8 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyDIsbSss0td8yHf_-JiKBf75--RQFwI-pM",
+  authDomain: "reseptisovellustwitter.firebaseapp.com",
+  projectId: "reseptisovellustwitter",
+  storageBucket: "reseptisovellustwitter.appspot.com",
+  messagingSenderId: "773290742758",
+  appId: "1:773290742758:web:156b14135fcdcfc9f73c27"
+};
